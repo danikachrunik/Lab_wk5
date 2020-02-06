@@ -6,3 +6,4 @@ This week we are practicing creating new repositories and making commits.
 
 Resources:
 - Basic html code copied from: https://gist.github.com/cpjobling/1988786
+- Help with branching and merging: https://support.gitkraken.com/working-with-repositories/branching-and-merging/
